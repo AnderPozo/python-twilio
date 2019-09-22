@@ -1,12 +1,12 @@
 
 # Your Account SID from twilio
-account_sid = "AC900d9fa40c45abff5155c9e1953deb41"
+account_sid = "xxxxxxxxxxxxxxxxx"
 # Your Auth Token from twilio
-auth_token  = "420ea8665f86561a98a41e6f4442860e"
+auth_token  = "xxxxxxxxxxxxxxxxx"
 #Destination number
-my_number = '+593988978722'
+my_number = '+1233432324'
 #Sender number
-sender_number = '+12055831452'
+sender_number = '+1213123213'
 
 #WhatsApp sender number
-whatsapp_number_sender = '+14155238886'
+whatsapp_number_sender = '+14123123124'

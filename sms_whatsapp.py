@@ -7,7 +7,7 @@ auth_token = auth_token
 client = Client(account_sid, auth_token)
 
 message = client.messages.create(
-                              body='Hola niña boba',
+                              body='Hello from Whatsapp',
                               from_='whatsapp:' + whatsapp_number_sender,
                               to='whatsapp:' + my_number
                           )
